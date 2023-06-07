@@ -49,7 +49,7 @@
       <recent name="C:\Users\kk.LAPTOP-FUGC6147\IdeaProjects\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FenwickTest">
+  <component name="RunManager" selected="Application.BaseCP">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A" />
       <module name="untitled" />
@@ -60,6 +60,13 @@
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B" />
       <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseCP" />
+      <module name="Templates" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,20 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaseCP" />
         <item itemvalue="Application.FenwickTest" />
         <item itemvalue="Application.E" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
